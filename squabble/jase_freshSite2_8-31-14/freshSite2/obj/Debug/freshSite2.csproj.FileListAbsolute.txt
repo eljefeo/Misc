@@ -1,0 +1,204 @@
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\freshSite2.dll.config
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\freshSite2.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\freshSite2.pdb
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Antlr3.Runtime.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\EntityFramework.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\EntityFramework.SqlServer.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Security.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Newtonsoft.Json.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Owin.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\System.Web.Optimization.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\System.Web.Providers.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\WebGrease.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\System.Web.Optimization.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Antlr3.Runtime.pdb
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Newtonsoft.Json.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\EntityFramework.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\EntityFramework.SqlServer.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Security.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\obj\Debug\freshSite2.csprojResolveAssemblyReference.cache
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\obj\Debug\freshSite2.dll
+c:\users\dead\documents\visual studio 2013\Projects\freshSite2\freshSite2\obj\Debug\freshSite2.pdb
+C:\freshSite2\freshSite2\bin\freshSite2.dll.config
+C:\freshSite2\freshSite2\bin\freshSite2.dll
+C:\freshSite2\freshSite2\bin\freshSite2.pdb
+C:\freshSite2\freshSite2\bin\Antlr3.Runtime.dll
+C:\freshSite2\freshSite2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\freshSite2\freshSite2\bin\AspNet.ScriptManager.jQuery.dll
+C:\freshSite2\freshSite2\bin\EntityFramework.dll
+C:\freshSite2\freshSite2\bin\EntityFramework.SqlServer.dll
+C:\freshSite2\freshSite2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\freshSite2\freshSite2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\freshSite2\freshSite2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\freshSite2\freshSite2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\freshSite2\freshSite2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.dll
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Security.dll
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Google.dll
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\freshSite2\freshSite2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\freshSite2\freshSite2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\freshSite2\freshSite2\bin\Microsoft.Web.Infrastructure.dll
+C:\freshSite2\freshSite2\bin\Newtonsoft.Json.dll
+C:\freshSite2\freshSite2\bin\Owin.dll
+C:\freshSite2\freshSite2\bin\System.Web.Optimization.dll
+C:\freshSite2\freshSite2\bin\System.Web.Providers.dll
+C:\freshSite2\freshSite2\bin\WebGrease.dll
+C:\freshSite2\freshSite2\bin\System.Web.Optimization.xml
+C:\freshSite2\freshSite2\bin\Antlr3.Runtime.pdb
+C:\freshSite2\freshSite2\bin\Newtonsoft.Json.xml
+C:\freshSite2\freshSite2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\freshSite2\freshSite2\bin\EntityFramework.xml
+C:\freshSite2\freshSite2\bin\EntityFramework.SqlServer.xml
+C:\freshSite2\freshSite2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\freshSite2\freshSite2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\freshSite2\freshSite2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.xml
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Security.xml
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Google.xml
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\freshSite2\freshSite2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\freshSite2\freshSite2\obj\Debug\freshSite2.dll
+C:\freshSite2\freshSite2\obj\Debug\freshSite2.pdb
+C:\freshSite2\freshSite2\obj\Debug\freshSite2.csprojResolveAssemblyReference.cache
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\freshSite2.dll.config
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\freshSite2.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\freshSite2.pdb
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Antlr3.Runtime.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\EntityFramework.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\EntityFramework.SqlServer.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Newtonsoft.Json.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Owin.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\System.Web.Optimization.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\System.Web.Providers.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\WebGrease.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\System.Web.Optimization.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Antlr3.Runtime.pdb
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Newtonsoft.Json.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\EntityFramework.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\EntityFramework.SqlServer.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\obj\Debug\freshSite2.csprojResolveAssemblyReference.cache
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\obj\Debug\freshSite2.dll
+C:\Users\dead\Desktop\jeffsFreshSite\jase_freshSite2_8-31-14\freshSite2\obj\Debug\freshSite2.pdb
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\obj\Debug\freshSite2.csprojResolveAssemblyReference.cache
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\obj\Debug\freshSite2.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\obj\Debug\freshSite2.pdb
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\freshSite2.dll.config
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\freshSite2.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\freshSite2.pdb
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Antlr3.Runtime.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\EntityFramework.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\EntityFramework.SqlServer.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Newtonsoft.Json.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Owin.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\System.Web.Optimization.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\System.Web.Providers.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\WebGrease.dll
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\System.Web.Optimization.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Antlr3.Runtime.pdb
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Newtonsoft.Json.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\EntityFramework.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\EntityFramework.SqlServer.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dead\Desktop\jase_freshSite2_8-31-14\freshSite2\bin\Microsoft.Owin.Security.OAuth.xml
