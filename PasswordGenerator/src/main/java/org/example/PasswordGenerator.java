@@ -6,7 +6,7 @@ import java.util.List;
 
 public class PasswordGenerator {
 
-    private static final int defaultPasswordLength = 200;
+    private static final int defaultPasswordLength = 20;
     private static final String LOWER_CASE = "abcdefghijklmnopqrstuvwxyz";
     private static final String UPPER_CASE = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     private static final String NUMBERS = "0123456789";
