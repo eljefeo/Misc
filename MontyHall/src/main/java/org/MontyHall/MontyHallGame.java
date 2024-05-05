@@ -1,4 +1,4 @@
-package org.example;
+package org.MontyHall;
 
 import java.text.DecimalFormat;
 import java.util.HashSet;
