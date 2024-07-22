@@ -209,7 +209,7 @@ public class PasswordGenerator {
             System.out.println("No desired password length set in args, using default length of " + defaultPasswordLength);
         } else if (args.length > 1) {
             throw new IllegalArgumentException("Please pass in only 1 argument as a number for your desired password length");
-        } else if (args.length == 1) {
+        } else {
             try {
                 System.out.println("Found password length: " + args[0]);
                 return Integer.parseInt(args[0]);
