@@ -64,10 +64,10 @@ public class MontyHallGame {
 
     public static void main(String[] args) {
 
-        int numberOfDoors = 100;
-        int howManyTimeToRun = 1000000;
+        int numberOfDoors = 3;
+        int howManyTimeToRun = 3;
         boolean shouldSwitchDoors = false;
-        boolean shouldShowText = false;
+        boolean shouldShowText = true;
         testMontyHallLotsOfTimes(howManyTimeToRun, shouldSwitchDoors, shouldShowText, numberOfDoors);
     }
 
@@ -126,6 +126,18 @@ public class MontyHallGame {
 
             myDoor = otherDoorToKeepShut; //switch your door for the only other one left closed
         }
+
+        final boolean didIWin = myDoor == prizeDoor;
+        if(shouldShowText) {
+            // Just to show some info on screen, doesn't actually change anything
+            if(didIWin) {
+                System.out.println("Yay you won!");
+            } else {
+                System.out.println("Sorry you lost");
+            }
+            System.out.println("\n\n");
+        }
+
 
         return myDoor == prizeDoor; //result is whether your door is equal to the winning door
     }
