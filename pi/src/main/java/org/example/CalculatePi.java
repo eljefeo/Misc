@@ -33,7 +33,7 @@ public class CalculatePi
         }
 
         int max2 = 50000000; //one billion gives you the first 8 digits correct of pi
-        //this second method will do twice as many calculations for max2 vs max1 above. Same results just need to make max2 twice as large,
+        //this second method will do twice as many calculations for max2 vs max1 above. Same results just need to make max1 above twice as large,
         /*for(int i = 0; i < max2; i++){ //1415926735902504 = found after max2 = 50000000
             sum += ((double) 1 / odd) * (sign ? 1 : -1);
             sign = !sign;
