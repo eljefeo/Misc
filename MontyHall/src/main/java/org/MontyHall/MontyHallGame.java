@@ -66,7 +66,7 @@ public class MontyHallGame {
 
         int numberOfDoors = 3;
         int howManyTimeToRun = 3;
-        boolean shouldSwitchDoors = false;
+        boolean shouldSwitchDoors = true;
         boolean shouldShowText = true;
         testMontyHallLotsOfTimes(howManyTimeToRun, shouldSwitchDoors, shouldShowText, numberOfDoors);
     }
@@ -123,7 +123,7 @@ public class MontyHallGame {
         }
         if (shouldSwitchMyDoor){
             if(shouldShowText)// Just to show some info on screen, doesn't actually change anything
-                System.out.println("Switching doors from door #" + (myDoor+1) + " to door #" + (otherDoorToKeepShut+1));
+                System.out.println("We choose to switch from door #" + (myDoor+1) + " to door #" + (otherDoorToKeepShut+1));
 
             myDoor = otherDoorToKeepShut; //switch your door for the only other one left closed
         } else {
@@ -135,11 +135,9 @@ public class MontyHallGame {
         if(shouldShowText) {
             // Just to show some info on screen, doesn't actually change anything
             if(didIWin) {
-                System.out.println("Yay we won!");
-                System.out.println("We " + (shouldSwitchMyDoor ? " switched to " : " stayed with ") + "door #" + (myDoor+1) + " and it had the prize!");
+                System.out.println("Yay we won! We " + (shouldSwitchMyDoor ? "switched to " : "stayed with ") + "door #" + (myDoor+1) + " and it had the prize!");
             } else {
-                System.out.println("Sorry you lost");
-                System.out.println("The prize was behind door #" + (prizeDoor+1) + " but we " + (shouldSwitchMyDoor ? "switched to " : "stayed with ") + "door #" + (myDoor+1));
+                System.out.println("Damn we lost.. The prize was behind door #" + (prizeDoor+1) + " but we " + (shouldSwitchMyDoor ? "switched to " : "stayed with ") + "door #" + (myDoor+1));
             }
             System.out.println("\n\n");
         }
