@@ -112,28 +112,34 @@ public class MontyHallGame {
         }
 
         if(shouldShowText) { // Just to show some info on screen, doesn't actually change anything
-            System.out.println("doors at first are:");
-            System.out.println("Prize Door = " + prizeDoor);
-            System.out.println("My Door = " + myDoor);
-            System.out.println("Other door to keep shut = " + otherDoorToKeepShut);
+            System.out.println("The doors at first are:");
+            System.out.println("The prize is behind door #" + (prizeDoor+1));
+            System.out.println("I chose door #" + (myDoor+1));
             for(Integer i : doorsToTakeAway){
-                System.out.println("Door to take away: " + i);
+                System.out.println("They open and show a goat behind door #" + (i+1));
             }
+            System.out.println("(They keep door #" + (otherDoorToKeepShut+1) + " shut)");
+
         }
         if (shouldSwitchMyDoor){
             if(shouldShowText)// Just to show some info on screen, doesn't actually change anything
-                System.out.println("Switching doors from " + myDoor + " to " + otherDoorToKeepShut);
+                System.out.println("Switching doors from door #" + (myDoor+1) + " to door #" + (otherDoorToKeepShut+1));
 
             myDoor = otherDoorToKeepShut; //switch your door for the only other one left closed
+        } else {
+            if(shouldShowText)// Just to show some info on screen, doesn't actually change anything
+                System.out.println("We are sticking with our gut and staying with door #" + (myDoor+1));
         }
 
         final boolean didIWin = myDoor == prizeDoor;
         if(shouldShowText) {
             // Just to show some info on screen, doesn't actually change anything
             if(didIWin) {
-                System.out.println("Yay you won!");
+                System.out.println("Yay we won!");
+                System.out.println("We " + (shouldSwitchMyDoor ? " switched to " : " stayed with ") + "door #" + (myDoor+1) + " and it had the prize!");
             } else {
                 System.out.println("Sorry you lost");
+                System.out.println("The prize was behind door #" + (prizeDoor+1) + " but we " + (shouldSwitchMyDoor ? "switched to " : "stayed with ") + "door #" + (myDoor+1));
             }
             System.out.println("\n\n");
         }
