@@ -6,7 +6,6 @@ package org.example;
 public class CalculatePi {
     public static void main(String[] args) {
         doPi();
-        System.out.println("Hello World!");
     }
 
     private static void doPi() {
@@ -17,6 +16,11 @@ public class CalculatePi {
         double pi = getPi1();
         System.out.println("Pi: " + pi);
         checkCorrectDigitCount(thousandDigitsOfPi, String.valueOf(pi));
+
+
+        double pi2 = getPi2();
+        System.out.println("Pi2: " + pi2);
+        checkCorrectDigitCount(thousandDigitsOfPi, String.valueOf(pi2));
     }
 
     private static double getPi1() {
@@ -25,7 +29,7 @@ public class CalculatePi {
         double sum = 1;
         boolean sign = false;
 
-        //this second method will do twice as many calculations for max2 vs max1 above. Same results just need to make max1 above twice as large,
+        //this second method will do twice as many calculations for max2 vs max1 below. Same results just need to make max1 below twice as large, I guess use this one
         for(int i = 0; i < max2; i++){
             sum += ((double) 1 / odd) * (sign ? 1 : -1);
             sign = !sign;
