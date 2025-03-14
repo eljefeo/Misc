@@ -110,7 +110,7 @@ public class PasswordGenerator {
         return characterTypes.get((randomTypeInd));
     }
 
-    public static void guaranteeComplexity(StringBuilder pass) {
+    private static void guaranteeComplexity(StringBuilder pass) {
         // This ensures the password has something from each character list
         for (String aType : characterTypes) {
             int rn = randNum(aType.length());
@@ -119,7 +119,7 @@ public class PasswordGenerator {
         }
     }
 
-    public static void validateComplexity(String pass) {
+    private static void validateComplexity(String pass) {
         // Checks if the password has at least 1 of each character type
         List<String> typesCopy = new ArrayList<>(characterTypes);
 
@@ -156,7 +156,6 @@ public class PasswordGenerator {
                 char temp = pass.charAt(j);
                 pass.setCharAt(j, pass.charAt(randomIndex));
                 pass.setCharAt(randomIndex, temp);
-
             }
         }
         return pass;
@@ -179,6 +178,10 @@ public class PasswordGenerator {
         return shuffledString.toString();
     }
 
+    public static void secureShuffleList(List list) {
+        secureShuffleList(list, 1);
+    }
+
     public static void secureShuffleList(List list, int howManyTimes) {
         // Mixes up the list of character types
         if (list == null) {
@@ -189,15 +192,18 @@ public class PasswordGenerator {
                     + ", only shuffling " + numberOfTypesShuffles + " times.");
             howManyTimes = numberOfTypesShuffles;
         }
-        for (int i = 0; i < list.size(); i++) {
-            int randomIndex = randNum(list.size());
-            Object temp = list.get(i);
-            list.set(i, list.get(randomIndex));
-            list.set(randomIndex, temp);
+
+        for(int i = 0; i < howManyTimes; i++){
+            for (int j = 0; j < list.size(); j++) {
+                int randomIndex = randNum(list.size());
+                Object temp = list.get(j);
+                list.set(j, list.get(randomIndex));
+                list.set(randomIndex, temp);
+            }
         }
     }
 
-    public static int getDefaultPasswordLength() {
+    private static int getDefaultPasswordLength() {
         // If user doesnt ask for a specific length, use the default password length
         return defaultPasswordLength;
     }
@@ -221,7 +227,7 @@ public class PasswordGenerator {
         return defaultPasswordLength;
     }
 
-    public static void countCharacterTypes(String pass) {
+    private static void countCharacterTypes(String pass) {
         // Counts how many of each character type exist in the password. Just for fun
         int[] counter = new int[characterTypes.size()];
         for (int i = 0; i < pass.length(); i++) {
